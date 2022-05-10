@@ -1,6 +1,4 @@
-import './App.css';
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Header from "./components/Header";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";import Header from "./components/Header";
 import Home from "./components/Home";
 import Details1 from "./components/Details1"; import Details2 from "./components/Details2"; import Details3 from "./components/Details3"; import Details4 from "./components/Details4"; import Details5 from "./components/Details5"; import Details6 from "./components/Details6"; import Details7 from "./components/Details7"; import Details8 from "./components/Details8"; import Details9 from "./components/Details9"; import Details10 from "./components/Details10"; import Details11 from "./components/Details11"; import Details12 from "./components/Details12"; import Details13 from "./components/Details13"; import Details14 from "./components/Details14"; import Details15 from "./components/Details15"; import Details16 from "./components/Details16";
 
